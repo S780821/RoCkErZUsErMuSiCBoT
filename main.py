@@ -4,7 +4,7 @@ from pytgcalls import idle
 
 from config import SUPPORT, bot
 from config import call_py
-from Userbot.quote import arq
+from RockUb.quote import arq
 
 
 async def main():
@@ -12,7 +12,7 @@ async def main():
     await bot.join_chat("Rockerz_Support")            
     await bot.send_message(
             SUPPORT,
-            "<b>Congrats!! Music Bot has started successfully!</b>",
+            "<b>Congrats!! RoCkErZ🥌 Music Bot has started successfully!</b>",
         )
     print(
         """
