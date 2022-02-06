@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 from config import HNDLR, call_py
-from Userbot.helpers.decorators import authorized_users_only
-from Userbot.helpers.handlers import skip_current_song, skip_item
-from Userbot.helpers.queues import QUEUE, clear_queue
+from RockUb.helpers.decorators import authorized_users_only
+from RockUb.helpers.handlers import skip_current_song, skip_item
+from RockUb.helpers.queues import QUEUE, clear_queue
 
 
 @Client.on_message(filters.command(["skip"], prefixes=f"{HNDLR}"))
