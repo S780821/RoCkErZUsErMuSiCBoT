@@ -7,7 +7,7 @@ from pyrogram.types import Message
 from Python_ARQ import ARQ
 
 from config import HNDLR
-from Userbot.helpers.merrors import capture_err
+from RockUb.helpers.merrors import capture_err
 
 ARQ_API_KEY = "QFOTZM-GSZUFY-CHGHRX-TDEHOZ-ARQ"
 aiohttpsession = aiohttp.ClientSession()
