@@ -2,9 +2,7 @@
 
 ## ᖇᝪᑕᏦᗴᖇᏃ ᗷᝪᎢᔑ
 
-### NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
 
-# WAIT FOR LATEST UPDATES
 
 ## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/Rockerz_Support) 
 
